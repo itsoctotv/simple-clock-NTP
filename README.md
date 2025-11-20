@@ -8,5 +8,8 @@ very simple clock:
 
 ## libs:  
 NTP: https://github.com/arduino-libraries/NTPClient/tree/master  
-7-seg display (TM1637): https://github.com/avishorp/TM1637/tree/master  
+7-seg display (TM1637): https://github.com/avishorp/TM1637/tree/master   
 
+---  
+  
+_quickly thrown together because i needed a clock for my desk lol_ 
